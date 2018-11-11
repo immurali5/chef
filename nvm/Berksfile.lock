@@ -1,0 +1,7 @@
+DEPENDENCIES
+  nvm
+    path: .
+    metadata: true
+
+GRAPH
+  nvm (0.1.0)

@@ -1,0 +1,9 @@
+I, [2018-11-11T23:35:32.940754 #3176]  INFO -- default-ubuntu-1404: -----> Converging <default-ubuntu-1404>...
+I, [2018-11-11T23:35:32.945648 #3176]  INFO -- default-ubuntu-1404: Preparing files for transfer
+I, [2018-11-11T23:35:32.946371 #3176]  INFO -- default-ubuntu-1404: Preparing dna.json
+I, [2018-11-11T23:35:32.962435 #3176]  INFO -- default-ubuntu-1404: Resolving cookbook dependencies with Berkshelf 7.0.6...
+I, [2018-11-11T23:35:38.994287 #3176]  INFO -- default-ubuntu-1404: Removing non-cookbook files before transfer
+I, [2018-11-11T23:35:39.028151 #3176]  INFO -- default-ubuntu-1404: Preparing validation.pem
+I, [2018-11-11T23:35:39.036300 #3176]  INFO -- default-ubuntu-1404: Preparing client.rb
+I, [2018-11-11T23:35:54.047863 #3176]  INFO -- default-ubuntu-1404: [SSH] connection failed, retrying in 1 seconds (#<Net::SSH::ConnectionTimeout: Net::SSH::ConnectionTimeout>)
+I, [2018-11-11T23:36:10.052026 #3176]  INFO -- default-ubuntu-1404: [SSH] connection failed, retrying in 1 seconds (#<Net::SSH::ConnectionTimeout: Net::SSH::ConnectionTimeout>)

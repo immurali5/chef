@@ -1,0 +1,7 @@
+---
+last_error: Kitchen::ActionFailed
+hostname: 127.0.0.1
+port: '2200'
+username: vagrant
+ssh_key: D:/chef/chef-starter/chef-repo/cookbooks/nvm/.kitchen/kitchen-vagrant/default-ubuntu-1404/.vagrant/machines/default/virtualbox/private_key
+last_action: create
